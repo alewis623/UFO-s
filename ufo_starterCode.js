@@ -64,3 +64,20 @@ function updateFilters() {
   
   // Build the table when the page loads
   buildTable(tableData);
+
+
+
+  // code "reject" from app.js
+
+      //filterTable();
+  //if (elementValue){
+  //   filteredData = filteredData.filter(row => row.datetime === date);
+  //   filteredData = filteredData.filter(row => row.city === City);
+  //   filteredData = filteredData.filter(row => row.State === State);
+  //   filteredData = filteredData.filter(row => row.Country === Country);
+  //   filteredData = filteredData.filter(row => row.Shape === Shape);
+  //}
+    //inputField.on("change", function() {
+    //var elementValue = d3.event.target.value;
+   // console.log(newText);
+  //});
