@@ -8,7 +8,7 @@ VS Code version 1.62.3, Notepadd ++, v8.1.9, HTML, Chrome Browser verision 96.0.
 The UFO Sightings web page was created in HTML (index.html) The overall page was using a dark background and a NASA image in the jumbotron. See the example below. 
 ![image](https://user-images.githubusercontent.com/90878901/144958751-929fcc8c-0d5c-42c0-997b-afc2c0d5af1e.png)
 
-Script provided by the data journalist is used in the paragraphs. Filters were then added to filter through the data and change the table to the sorts that are populated. D3 was used to listen for events to change the table to the populated fields. 
+Script provided by the data journalist is used in the paragraphs. Filters were then added to filter through the data and change the table to the sorts that are populated. D3 was used to listen for events to change the table to the populated fields. A search can be performed by following the examples in the filter table. The examples ain the white boxes can be typed over as shown below. 
 
 Here is an example of using the date filter for Jan 13, 2010: 
 ![image](https://user-images.githubusercontent.com/90878901/144958996-19aff83e-04bf-4057-92ee-ad5fd31dfe1b.png)
